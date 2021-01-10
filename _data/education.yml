@@ -1,10 +1,15 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
+- course: Algebra I HN
+  institute: Lake Braddock Highschool
+  dates: 2018-2019
   logo: uob.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
+- course: Coding and Innovative Tech
+  institute: Lake Braddock Highschool
+  dates: Spring 2019
   logo: fellowship.svg
+  
+- course: Geometry HN
+  institute: Lake Braddock Highschool
+  dates: 2019-2020
+  
   
